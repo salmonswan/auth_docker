@@ -20,7 +20,7 @@ Install Verify:
 
 ## Run
 
-    export FLASK_APP=verify
+    export FLASK_APP=project
     export FLASK_ENV=development
     flask init-db
     flask run
